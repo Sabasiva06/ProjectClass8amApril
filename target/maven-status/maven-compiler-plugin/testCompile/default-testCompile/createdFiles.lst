@@ -1,0 +1,9 @@
+org\step\HooksClass.class
+org\adact\Adactin.class
+org\step\StepDef.class
+org\test\TestRunner.class
+org\rerun\ReRunner.class
+org\locator\LoginPage.class
+org\base\LibGlobal.class
+org\sample\SampleLaunch.class
+org\base\JVMReporting.class

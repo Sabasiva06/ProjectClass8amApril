@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="5" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36" started-at="2021-04-22T09:56:59Z" finished-at="2021-04-22T09:57:00Z">
+    <groups>
+      <group name="smoke">
+        <method signature="SampleTest.tc0()[pri:0, instance:org.testng.SampleTest@1068e947]" name="tc0" class="org.testng.SampleTest"/>
+        <method signature="SampleTest.tc2()[pri:0, instance:org.testng.SampleTest@1068e947]" name="tc2" class="org.testng.SampleTest"/>
+        <method signature="SampleTest.tc4()[pri:0, instance:org.testng.SampleTest@1068e947]" name="tc4" class="org.testng.SampleTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Test" duration-ms="36" started-at="2021-04-22T09:56:59Z" finished-at="2021-04-22T09:57:00Z">
+      <class name="org.testng.SampleTest">
+        <test-method status="PASS" signature="tc0()[pri:0, instance:org.testng.SampleTest@1068e947]" name="tc0" duration-ms="16" started-at="2021-04-22T09:57:00Z" finished-at="2021-04-22T09:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.testng.SampleTest@1068e947]" name="tc4" duration-ms="0" started-at="2021-04-22T09:57:00Z" finished-at="2021-04-22T09:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testng.SampleTest@1068e947]" name="tc2" duration-ms="0" started-at="2021-04-22T09:57:00Z" finished-at="2021-04-22T09:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- org.testng.SampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
