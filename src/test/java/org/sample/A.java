@@ -18,6 +18,22 @@ public class A {
 		System.out.println("test2 in A");
 	}
 	
+	@Test
+	private void test3() {
+		System.out.println("test3 in A");
+	}
+	
+	@Test
+	private void test4() {
+		System.out.println("test4 in A");
+	}
+	
+	@Test
+	private void test5() {
+		System.out.println("test5 in A");
+	}
+	
+	
 	
 	
 
