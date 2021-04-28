@@ -19,6 +19,20 @@ public class A {
 	}
 	
 	@Test
+
+	private void test3() {
+		System.out.println("test3 in A");
+	}
+	
+	@Test
+	private void test4() {
+		System.out.println("test4 in A");
+	}
+	
+	@Test
+	private void test5() {
+		System.out.println("test5 in A");
+	
 	private void test7() {
 		System.out.println("test 7 in A");
 	}
@@ -60,6 +74,7 @@ public class A {
 	@Test
 	private void test15() {
 		System.out.println("test 15 in A");
+
 	}
 	
 	
